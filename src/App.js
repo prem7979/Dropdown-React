@@ -1,9 +1,8 @@
-import './index.css';
-import Dropdown from './Dropdown';
-import { useState } from 'react';
+import "./index.css";
+import Dropdown from "./Dropdown";
 export default function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <Dropdown />
     </div>
   );
